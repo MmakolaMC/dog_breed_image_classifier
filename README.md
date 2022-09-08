@@ -1,6 +1,6 @@
 # Image Classifier.
 
-> An Image Classifier implemented using Jupyter notebook and the Pytorch framework.
+> A Flower species Image Classifier implemented using Jupyter notebook and the Pytorch framework.
 
 
 ## Built With
