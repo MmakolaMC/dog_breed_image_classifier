@@ -6,7 +6,7 @@
 ## Built With
 - Python
 - Jupyter Notebook
--Pytorch
+- Pytorch
 
 ## 📝 License
 
